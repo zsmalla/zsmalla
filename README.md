@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💻 I am a student in KOREATECH CSE
+💻 I am a student in KOREATECH CSE
 
 
 <!--

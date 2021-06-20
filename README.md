@@ -1,6 +1,14 @@
 ### Hi there 👋
 💻 I am a student in KOREATECH CSE
 
+### TECH
+> - 완숙 <br>
+> 배움에는 끝이 없음 <br>
+> - 반숙 <br>
+> <tab> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+> - 날것 <br>
+> <tab> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="Oracle" src ="https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white" />
+
 
 <!--
 **zsmalla/zsmalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
